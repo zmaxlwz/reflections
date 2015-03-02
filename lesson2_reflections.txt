@@ -1,0 +1,9 @@
+Lesson 2 reflections
+
+1. What happens when you initialize a repository? Why do you need to do it?
+
+  A hidden folder called '.git' will be created when I initialize a repository with 'git init'. I have to initialize a repository in order to use git to do version control.
+  
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?  
+
+  Staging area is an intermediate place between working directory and repository. You can add files to be committed into the staging area. You can put multiple files into staging area and commit them all at once. You can also remove files from staing area using 'git reset' before making commits. Staging area provides some kinds of flexibility for commit.
