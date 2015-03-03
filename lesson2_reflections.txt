@@ -24,5 +24,9 @@ Lesson 2 reflections
 
   We will get one branch with changes from two sources. It is intuitive to see the commits history as a tree structure.
   
-    
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  Most of the cases, there are no conflicts, so Git can do the merge automatically, which saves users a lot of time. When there is conflicts, Git will ask the user to fix the conflicts.    
+  
+  
   
