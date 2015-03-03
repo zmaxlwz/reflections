@@ -1,0 +1,6 @@
+This is a reflection file for lesson 3.
+
+1. When would you want to use a remote repository rather than keeping all your work local?
+
+  When I want to make a copy in the cloud, so I will not lose my files if my local computer crashes. 
+  Or if I want to cooperate with others.
