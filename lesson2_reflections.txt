@@ -20,5 +20,9 @@ Lesson 2 reflections
 
   The diagrams display the branch structures, how does each branch look like, the link relationship, the commits in the history of each branch.
   
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  We will get one branch with changes from two sources. It is intuitive to see the commits history as a tree structure.
   
+    
   
