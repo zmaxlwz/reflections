@@ -7,3 +7,18 @@ Lesson 2 reflections
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?  
 
   Staging area is an intermediate place between working directory and repository. You can add files to be committed into the staging area. You can put multiple files into staging area and commit them all at once. You can also remove files from staing area using 'git reset' before making commits. Staging area provides some kinds of flexibility for commit.
+  
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+  We can put multiple files in the staging area after one logical change to these files, then commit all of them. 
+  
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+  When I create another line of changes and want to keep the main line of work unaffected, I can create a new branch. 
+  
+5. How do the diagrams help you visualize the branch structure?
+
+  The diagrams display the branch structures, how does each branch look like, the link relationship, the commits in the history of each branch.
+  
+  
+  
