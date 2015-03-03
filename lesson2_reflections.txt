@@ -29,4 +29,5 @@ Lesson 2 reflections
   Most of the cases, there are no conflicts, so Git can do the merge automatically, which saves users a lot of time. When there is conflicts, Git will ask the user to fix the conflicts.    
   
   
-  
+******************
+end of reflections for lesson 2  
